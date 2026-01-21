@@ -5,3 +5,4 @@ This repository is a <b>hands-on Git learning</b> activity designed for 2 partic
 # Roles
  - Person A -> Developer
  - Person B -> Team 
+ - Person C -> sleeper
