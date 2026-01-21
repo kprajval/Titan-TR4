@@ -1,1 +1,1 @@
-#Git Collaboration Game - 2 Person Activity
+# Git Collaboration Game - 2 Person Activity
